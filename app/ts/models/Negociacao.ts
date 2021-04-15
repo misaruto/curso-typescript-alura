@@ -4,6 +4,7 @@ class Negociacao {
     private _quantidade: number,
     private _valor: number
   ) {}
+
   get data() {
     return this._data;
   }

@@ -3,11 +3,12 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "compile":"tsc",
+    "compile": "tsc",
     "start": "tsc -w"
   },
   "license": "MIT",
   "devDependencies": {
+    "@types/jquery": "2.0.42",
     "typescript": "^4.2.4"
   }
 }
